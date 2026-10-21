@@ -26,4 +26,4 @@ Para jogar direto se vc for de PC e nn quiser fzr aquilo, é só 2 passos bem si
 2. Clique nele
 3. Clica em 'download ZIP'
 4. Extraia tudo
-5. E aproveite o jogo!
+5. E aproveite o jogo! Só nn colocar nada nele q nn pifa
