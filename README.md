@@ -17,4 +17,13 @@ Para rodar o jogo direto no seu PC sem precisar baixar nenhum aplicativo instala
 
 Prontin! YAYY. Agr é só dar dois cliques no seu arquivo `index.html` e o jogo vai abrir direto no seu navegador, totalmente de graça e independente! CASO SE INTERESAR NISSO E QUISER Q EU AJUDE VC PRA FZR JOGOS, CUSTA 500 ROBUX MUAHAHA
 
-E PFV FALE PROS ZOTO SOBRE MEU SITE
+E PFV FALE PROS ZOTO SOBRE MEU SITE, e caso vc nn quiser fzr isso..
+
+**# 🎉COMO INSTALAR SE NN QUISER ESCREVER**
+Para jogar direto se vc for de PC e nn quiser fzr aquilo, é só 2 passos bem simples, mas dificil pra inicianteS:
+
+1. Olhe na aba e procure algum lugar escrito 'Code' e o simbolo mais ou menos assim: </>
+2. Clique nele
+3. Clica em 'download ZIP'
+4. Extraia tudo
+5. E aproveite o jogo!
